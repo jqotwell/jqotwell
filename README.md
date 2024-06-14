@@ -1,6 +1,6 @@
 Hello,
 
-I am James Otwell and I will be graduating from my Data Science Masters' program this semester. I am looking for work as a data scientist.
+I am James Otwell and I just finished my Masters' in Data Science. I am looking for work as a data scientist.
 
 <!---
 jqotwell/jqotwell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

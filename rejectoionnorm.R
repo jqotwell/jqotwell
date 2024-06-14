@@ -1,3 +1,6 @@
+
+# using rejection sampling for the laplace distribution
+
 library(stats)
 library(NormalLaplace)
 u<-runif(1000,0,1)

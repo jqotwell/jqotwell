@@ -1,3 +1,5 @@
+# creating a Metropolis hasting's sampler for a laplace distribution
+
 library(stats)
 library(NormalLaplace)
 library(EnvStats)
